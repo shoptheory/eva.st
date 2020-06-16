@@ -257,6 +257,17 @@ input.input100 {
 }
 
 /*//////////////////////////////////////////////////////////////////
+[ Image ]*/
+
+img.st-logo{
+  height: 100px;
+}
+img.st-logo:hover{
+  mix-blend-mode: soft-light;
+  cursor: pointer;
+}
+
+/*//////////////////////////////////////////////////////////////////
 [ Border ]*/
 .bor1 {
   border-bottom: 3px solid #3a5dff;
